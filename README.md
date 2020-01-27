@@ -3,9 +3,9 @@ List of materials for studying Substance Designer.
 
 ## **Videos**:
 - [Daniel Thiger](https://gumroad.com/dete?filetypes=mp4&sort=page_layout)
-- [Substance Masters](https://gumroad.com/environmentdesign?filetypes=mp4&tags=substance designer)
+- [Substance Masters](http://bit.ly/2U0HFqn)
 - [Art of Josh Lynch](https://gumroad.com/artofjoshlynch?filetypes=mp4&sort=page_layout)
-- [Substance Academy](https://academy.substance3d.com/search?software=substance designer)
+- [Substance Academy](http://bit.ly/2RuHLVf)
 - [LevelUp Digital](https://levelup.digital)
 - [PurePolygons](https://gumroad.com/purepolygons?filetypes=mp4,sbs)
 - [Artstaion Learning](https://www.artstation.com/learning)
@@ -25,20 +25,24 @@ List of materials for studying Substance Designer.
 - [Peter Sekula](https://www.artstation.com/qtheory/albums/70187)
 - [Earthworms Material](https://gumroad.com/shreniag?recommended_by=search#ngHEH)
 - [Karen Stanley](https://gumroad.com/kazperstan?recommended_by=search)
+- [Matthias' Schmidt Blog](https://www.artstation.com/steppenwolf/blog)
 
 ## **Substance Graphs**:
 - [Substance Source](https://source.substance3d.com)
-- [Substance Masters](https://gumroad.com/environmentdesign?filetypes=mp4&tags=substance designer)
 - [The Art of Jonathan Benainous](https://gumroad.com/jonathanbenainous?sort=page_layout)
-- [Daniel Thiger](https://gumroad.com/dete?sort=page_layout&tags=substance pack)
-- [Hamidreza Afshari](https://gumroad.com/codeplus?sort=page_layout&tags=substance designer)
+- [Daniel Thiger](http://bit.ly/30WhWka)
+- [Hamidreza Afshari](http://bit.ly/38HW66D)
 - [Enrico Tammekand](https://gumroad.com/enricotam)
 - [Derk Elshof](https://gumroad.com/derkelshof)
 - [Emrecan Cubukcu](https://www.artstation.com/emrecancubukcu/store)
 - [Steve Holt](https://gumroad.com/steveh)
 - [Money Stack Material](https://www.artstation.com/artwork/3owNwY)
 - [Elie Paquiet](https://gumroad.com/talyn?recommended_by=search)
-- [Nikola Damjanov](https://gumroad.com/cubear?recommended_by=search&sort=page_layout&tags=substance designer)
+- [Nikola Damjanov](http://bit.ly/2tUeaMa)
+- [Álvaro Carreras](https://www.artstation.com/ac_art/store)
+- [Tom Jacobs](https://gumroad.com/millionviews)
+- [Clark Coots](https://gumroad.com/clarkcoots)
+- [Jura Andreev](https://gumroad.com/joblack)
 
 
 
